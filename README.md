@@ -2,6 +2,10 @@
 Hey and welcome to the Season 0.4 of GearBound
 this is the development repo of the modpack used to further develop the modpack
 
+## IMPORTANT
+L_Ender 's Cataclysm exceeds the maximum file size and cannot be uploaded to github,
+but is still contained in the import file
+
 ## Wonna help?
 Feel free to clone this github and when merging we can go
 over the changes together, there is also a TODO.md detailing the current ideas and progress
