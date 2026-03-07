@@ -1,16 +1,16 @@
 # GB CABIN
-Hey and welcome to the Season 0.4 of GearBound
+Hey and welcome to the Season 0.4 of GearBound<br>
 this is the development repo of the modpack used to further develop the modpack
 
 ## IMPORTANT
-L_Ender 's Cataclysm exceeds the maximum file size and cannot be uploaded to github,
+L_Ender 's Cataclysm exceeds the maximum file size and cannot be uploaded to github,<br>
 but is still contained in the import file
 
 ## Wonna help?
-Feel free to clone this github and when merging we can go
-over the changes together, there is also a TODO.md detailing the current ideas and progress
-(or at least there will be soon)
-when working on the todo list please
+Feel free to clone this github and when merging we can go<br>
+over the changes together, there is also a TODO.md detailing the current ideas and progress<br>
+(or at least there will be soon)<br>
+when working on the todo list please<br>
 join the notion app to keep track on who is editing and working on what
 
 join us on [Notion](https://www.notion.so/GearBound-31c5c0b1cc368059a176e14efb34ef3b?source=copy_link)
@@ -18,5 +18,5 @@ join us on [Notion](https://www.notion.so/GearBound-31c5c0b1cc368059a176e14efb34
 ### What is notion?
 think of it like a advaned note taking app,
 ### why not have a todo list on Github?
-i fought about this but it would require updating some file within github,
+i fought about this but it would require updating some file within github,<br>
 which would require a lot of unecessary pulls and pushes
