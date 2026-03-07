@@ -1,0 +1,37 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "mining"
+	group: "2DB41828002422BD"
+	icon: {
+		Count: 1
+		id: "create_sa:brass_pickaxe"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "3AB0CAD4E2E0C4A3"
+	order_index: 2
+	quest_links: [ ]
+	quests: [{
+		dependencies: ["01A0722FFBF97C38"]
+		icon: {
+			Count: 1
+			id: "create_sa:brass_pickaxe"
+			tag: {
+				Damage: 0
+			}
+		}
+		id: "451B3CA78CA6C8FF"
+		shape: "hexagon"
+		size: 1.0d
+		tasks: [{
+			id: "15432F9B6FEBFE62"
+			title: "Welcome to the Guild"
+			type: "checkmark"
+		}]
+		x: 2.5d
+		y: 0.5d
+	}]
+	title: " &#25D0AAM&#72DF85i&#C0EF6An&#F6F96Di&#F6F6F6n&#BABBACg"
+}
