@@ -1,0 +1,378 @@
+
+#Disables certain types. Note that all these configs, like in any other mod, only hide stuff from tabs and disable their recipes
+[types]
+
+	[types.stone_type]
+
+		[types.stone_type.abyssal_decor]
+			blood_coral = true
+			jade = true
+			starstone = true
+			effervescence = true
+
+		[types.stone_type.natures_spirit]
+			white_kaolin = true
+			light_gray_kaolin = true
+			gray_kaolin = true
+			black_kaolin = true
+			brown_kaolin = true
+			red_kaolin = true
+			orange_kaolin = true
+			yellow_kaolin = true
+			lime_kaolin = true
+			green_kaolin = true
+			cyan_kaolin = true
+			light_blue_kaolin = true
+			blue_kaolin = true
+			purple_kaolin = true
+			magenta_kaolin = true
+			pink_kaolin = true
+			pink_sandstone = true
+			white_chalk = true
+			light_gray_chalk = true
+			gray_chalk = true
+			black_chalk = true
+			brown_chalk = true
+			red_chalk = true
+			orange_chalk = true
+			yellow_chalk = true
+			lime_chalk = true
+			green_chalk = true
+			cyan_chalk = true
+			light_blue_chalk = true
+			blue_chalk = true
+			purple_chalk = true
+			magenta_chalk = true
+			pink_chalk = true
+			travertine = true
+			chert = true
+			kaolin = true
+
+		[types.stone_type.create]
+			limestone = true
+			asurine = true
+			crimsite = true
+			ochrum = true
+			veridium = true
+			scoria = true
+			scorchia = true
+
+		[types.stone_type.create_dd]
+			gabbro = true
+			aethersite = true
+			potassic = true
+			weathered_limestone = true
+
+		[types.stone_type.quark]
+			soul_sandstone = true
+			limestone = true
+			jasper = true
+			shale = true
+			myalite = true
+			permafrost = true
+
+		[types.stone_type.ad_astra]
+			moon_stone = true
+			mars_stone = true
+			conglomerate = true
+			mercury_stone = true
+			venus_stone = true
+			glacio_stone = true
+			permafrost = true
+
+		[types.stone_type.architects_palette]
+			abyssaline = true
+			hadaline = true
+			myonite = true
+			esoterrack = true
+			onyx = true
+			wardstone = true
+			moonshale = true
+			nebulite = true
+
+	[types.wood_type]
+
+		[types.wood_type.netherexp]
+			claret = true
+			smokestalk = true
+
+		[types.wood_type.nethers_exoticism]
+			jabuticaba = true
+			ramboutan = true
+
+		[types.wood_type.quark]
+			azalea = true
+			ancient = true
+			blossom = true
+
+		[types.wood_type.minecraft]
+			pale_oak = true
+
+		[types.wood_type.nethers_exorcism_reborn]
+			indigo = true
+
+		[types.wood_type.thermal]
+			rubberwood = true
+
+		[types.wood_type.create_dd]
+			rose = true
+			smoked = true
+			spirit = true
+			rubber = true
+
+		[types.wood_type.natures_spirit]
+			redwood = true
+			sugi = true
+			wisteria = true
+			fir = true
+			willow = true
+			aspen = true
+			maple = true
+			cypress = true
+			olive = true
+			joshua = true
+			ghaf = true
+			palo_verde = true
+			coconut = true
+			cedar = true
+			larch = true
+			mahogany = true
+			saxaul = true
+
+		[types.wood_type.abyssal_decor]
+			white_wood = true
+			blackwood = true
+			cinnamon = true
+
+		[types.wood_type.ad_astra]
+			aeronos = true
+			strophar = true
+			glacian = true
+
+		[types.wood_type.architects_palette]
+			twisted = true
+
+		[types.wood_type.cataclysm]
+			chorus = true
+
+	[types.cake]
+
+		[types.cake.natures_spirit]
+			cheese_block = true
+
+		[types.cake.createaddition]
+			chocolate_cake = true
+			honey_cake = true
+
+	[types.leaves_type]
+
+		[types.leaves_type.nethers_exoticism]
+			jaboticaba = true
+
+		[types.leaves_type.minecraft]
+			pale_oak = true
+
+		[types.leaves_type.thermal]
+			rubberwood = true
+
+		[types.leaves_type.create_dd]
+			rubber = true
+
+		[types.leaves_type.natures_spirit]
+			frosty_redwood = true
+			redwood = true
+			sugi = true
+			wisteria = true
+			white_wisteria = true
+			part_white_wisteria = true
+			blue_wisteria = true
+			part_blue_wisteria = true
+			pink_wisteria = true
+			part_pink_wisteria = true
+			purple_wisteria = true
+			part_purple_wisteria = true
+			frosty_fir = true
+			fir = true
+			willow = true
+			aspen = true
+			yellow_aspen = true
+			red_maple = true
+			orange_maple = true
+			yellow_maple = true
+			cypress = true
+			olive = true
+			joshua = true
+			ghaf = true
+			palo_verde = true
+			coconut = true
+			cedar = true
+			larch = true
+			mahogany = true
+			saxaul = true
+
+		[types.leaves_type.abyssal_decor]
+			cinnamon = true
+			flowering_cinnamon = true
+
+		[types.leaves_type.quark]
+			ancient = true
+			blue_blossom = true
+			lavender_blossom = true
+			orange_blossom = true
+			yellow_blossom = true
+			red_blossom = true
+
+		[types.leaves_type.ad_astra]
+			glacian = true
+
+		[types.leaves_type.architects_palette]
+			twisted = true
+
+#Disables specific entries
+[entries]
+
+	[entries.stone_type]
+
+		[entries.stone_type.create]
+			small_brick_wall = true
+			cut_wall = true
+			small_bricks = true
+			cut = true
+			polished_cut = true
+			small_brick_slab = true
+			layered = true
+			cut_brick_wall = true
+			pillar = true
+			cut_stairs = true
+			cut_brick_stairs = true
+			cut_brick_slab = true
+			polished_cut_slab = true
+			small_brick_stairs = true
+			cut_bricks = true
+			polished_cut_stairs = true
+			polished_cut_wall = true
+			cut_slab = true
+
+		[entries.stone_type.handcrafted]
+			corner_trim = true
+			pillar_trim = true
+
+		[entries.stone_type.bbb]
+			column = true
+			urn = true
+			brick_layer = true
+			fence = true
+			layer = true
+			tile_stairs = true
+			moulding = true
+			tile_slab = true
+			smooth_layer = true
+			tiles = true
+
+		[entries.stone_type.quark]
+			polished_vertical_slab = true
+			pillar = true
+			vertical_slab = true
+
+		[entries.stone_type.decorative_blocks]
+			pillar = true
+
+	[entries.mud_type]
+
+		[entries.mud_type.quark]
+			carved_bricks = true
+			pillar = true
+			brick_lattice = true
+
+	[entries.wood_type]
+
+		[entries.wood_type.handcrafted]
+			counter = true
+			corner_trim = true
+			fancy_bed = true
+			desk = true
+			shelf = true
+			cupboard = true
+			dining_bench = true
+			bench = true
+			drawer = true
+			pillar_trim = true
+			side_table = true
+			nightstand = true
+			couch = true
+			table = true
+			chair = true
+
+		[entries.wood_type.refurbished_furniture]
+			storage_cabinet = true
+			storage_jar = true
+			kitchen_cabinetry = true
+			crate = true
+			desk = true
+			chair = true
+			light_ceiling_fan = true
+			cutting_board = true
+			drawer = true
+			table = true
+			mail_box = true
+			dark_ceiling_fan = true
+			kitchen_sink = true
+			toilet = true
+			lattice_fence = true
+			basin = true
+			kitchen_drawer = true
+			lattice_fence_gate = true
+			bath = true
+			kitchen_storage_cabinet = true
+
+		[entries.wood_type.decorative_blocks]
+			beam = true
+			support = true
+			seat = true
+			palisade = true
+
+		[entries.wood_type.unusual_furniture]
+			celling_lamp = true
+			table = true
+			chair = true
+			railing = true
+			carved = true
+			stool = true
+			bench = true
+			drawer = true
+			coffee_table = true
+			beam = true
+			shelf = true
+			open_riser_stairs = true
+
+		[entries.wood_type.create]
+			window_pane = true
+			window = true
+
+		[entries.wood_type.quark]
+			vertical_planks = true
+			chest = true
+			ladder = true
+			hollow_log = true
+			post = true
+			trapped_chest = true
+			bookshelf = true
+			stripped_post = true
+			vertical_slab = true
+
+		[entries.wood_type.architects_palette]
+			board_stairs = true
+			railing = true
+			boards = true
+			board_slab = true
+			board_wall = true
+
+	[entries.leaves_type]
+
+		[entries.leaves_type.quark]
+			hedge = true
+			leaf_carpet = true
+
+		[entries.leaves_type.refurbished_furniture]
+			hedge = true
+
