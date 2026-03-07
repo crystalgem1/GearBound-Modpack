@@ -6,9 +6,9 @@
   "fpsDisplayVAlign": "TOP",
   "fpsDisplaySystemMode": "OFF",
   "fpsDisplayMargin": 392,
-  "fpsDisplayVMargin": 392,
+  "fpsDisplayVMargin": 12,
   "fpsDisplayShadow": false,
-  "fog": true,
+  "fog": false,
   "blueBand": true,
   "customFog": true,
   "fogStart": 0,
@@ -33,7 +33,7 @@
   "darknessAffectedByMoonPhase": true,
   "darknessNewMoonBright": 0.0,
   "darknessFullMoonBright": 0.25,
-  "hideJREMI": false,
+  "hideJREMI": true,
   "hideJREMIHint": false,
   "fontShadows": true,
   "leavesCulling": "OFF",
@@ -63,8 +63,8 @@
   "tileEntityWhitelist": [
     "waterframes:all"
   ],
-  "borderlessAttachModeF11": "ATTACH",
+  "borderlessAttachModeF11": "OFF",
   "fastLanguageReload": true,
-  "enableZoom": false,
-  "maxZoom": 10.0
+  "enableZoom": true,
+  "maxZoom": 50.0
 }

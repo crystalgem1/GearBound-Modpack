@@ -1,0 +1,216 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "guild"
+	group: "2DB41828002422BD"
+	icon: "farmersdelight:yellow_hanging_canvas_sign"
+	id: "7B5018D7CE1BCCC0"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "5435ADD46300B791"
+			tasks: [{
+				id: "76592BE50700A082"
+				title: "Welcome to the Guild"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5435ADD46300B791"]
+			id: "01A0722FFBF97C38"
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [{
+				id: "2B5A31A03786B5FD"
+				title: "Welcome to the Guild"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"01A0722FFBF97C38"
+				"413D056801849F66"
+			]
+			icon: {
+				Count: 1
+				id: "create_sa:brass_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "760537D192E942B2"
+			shape: "hexagon"
+			size: 1.0d
+			tasks: [{
+				id: "3BF899C1771AE874"
+				title: "Welcome to the Guild"
+				type: "checkmark"
+			}]
+			x: 2.5d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"01A0722FFBF97C38"
+				"13E186DFD29BA553"
+			]
+			icon: {
+				Count: 1
+				id: "create_sa:brass_axe"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "4BD9EF4D45D40031"
+			shape: "hexagon"
+			size: 1.0d
+			tasks: [{
+				id: "3DCCDEB7DE48B327"
+				title: "Welcome to the Guild"
+				type: "checkmark"
+			}]
+			x: 1.7999999999999998d
+			y: 3.3d
+		}
+		{
+			dependencies: [
+				"01A0722FFBF97C38"
+				"451B3CA78CA6C8FF"
+			]
+			icon: {
+				Count: 1
+				id: "create_sa:brass_pickaxe"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "5DD5A93385D58A2C"
+			shape: "hexagon"
+			size: 1.0d
+			tasks: [{
+				id: "330ACE0C16BF76A1"
+				title: "Welcome to the Guild"
+				type: "checkmark"
+			}]
+			x: 0.2d
+			y: 3.3d
+		}
+		{
+			dependencies: [
+				"01A0722FFBF97C38"
+				"0C5341D0C5AB6BB6"
+			]
+			icon: {
+				Count: 1
+				id: "create_sa:brass_hoe"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "05D91ACFCD630506"
+			shape: "hexagon"
+			size: 1.0d
+			tasks: [{
+				id: "10FFCC5622FD97BF"
+				title: "Welcome to the Guild"
+				type: "checkmark"
+			}]
+			x: -0.5d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			description: ["{cabin.quest.76E3B76D47A1F889.description1}"]
+			icon: {
+				Count: 1
+				id: "minecraft:crossbow"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "42B63910757559F4"
+			rewards: [{
+				count: 10
+				icon: "kubejs:silver_coin"
+				id: "58DB67C394C24575"
+				item: "thermal:silver_coin"
+				type: "item"
+			}]
+			subtitle: "{cabin.quest.09DC2E2BE2BE32F4.subtitle}"
+			tasks: [
+				{
+					id: "4C478C1578703491"
+					item: {
+						Count: 1
+						id: "minecraft:white_banner"
+						tag: {
+							BlockEntityTag: {
+								Patterns: [
+									{
+										Color: 9
+										Pattern: "mr"
+									}
+									{
+										Color: 8
+										Pattern: "bs"
+									}
+									{
+										Color: 7
+										Pattern: "cs"
+									}
+									{
+										Color: 8
+										Pattern: "bo"
+									}
+									{
+										Color: 15
+										Pattern: "ms"
+									}
+									{
+										Color: 8
+										Pattern: "hh"
+									}
+									{
+										Color: 8
+										Pattern: "mc"
+									}
+									{
+										Color: 15
+										Pattern: "bo"
+									}
+								]
+							}
+							HideFlags: 32
+							display: {
+								Name: "{\"color\":\"gold\",\"translate\":\"block.minecraft.ominous_banner\"}"
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					entity: "minecraft:pillager"
+					icon: {
+						Count: 1
+						id: "minecraft:crossbow"
+						tag: {
+							Damage: 0
+						}
+					}
+					id: "7A000BFEF39ABC05"
+					type: "kill"
+					value: 3L
+				}
+			]
+			title: "{cabin.quest.76E3B76D47A1F889.title}"
+			x: -1.5d
+			y: 3.0d
+		}
+	]
+	title: " &#25D0AAT&#72DF85h&#C0EF6Ae&#f6f96d G&#F6F6F6u&#BABBACild"
+}

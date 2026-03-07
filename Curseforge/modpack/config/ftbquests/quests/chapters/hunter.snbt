@@ -1,0 +1,37 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "hunter"
+	group: "2DB41828002422BD"
+	icon: {
+		Count: 1
+		id: "create_sa:brass_sword"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "639807CFE8BF9660"
+	order_index: 5
+	quest_links: [ ]
+	quests: [{
+		dependencies: ["01A0722FFBF97C38"]
+		icon: {
+			Count: 1
+			id: "create_sa:brass_sword"
+			tag: {
+				Damage: 0
+			}
+		}
+		id: "413D056801849F66"
+		shape: "hexagon"
+		size: 1.0d
+		tasks: [{
+			id: "5FD5DA4369D104A9"
+			title: "Welcome to the Guild"
+			type: "checkmark"
+		}]
+		x: -9.5d
+		y: 3.0d
+	}]
+	title: " &#25D0AAH&#72DF85u&#C0EF6An&#F6F96Dt&#F6F6F6i&#BABBACng"
+}

@@ -1,0 +1,37 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "forestry"
+	group: "2DB41828002422BD"
+	icon: {
+		Count: 1
+		id: "create_sa:brass_axe"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "292A72BF2537C98E"
+	order_index: 4
+	quest_links: [ ]
+	quests: [{
+		dependencies: ["01A0722FFBF97C38"]
+		icon: {
+			Count: 1
+			id: "create_sa:brass_axe"
+			tag: {
+				Damage: 0
+			}
+		}
+		id: "13E186DFD29BA553"
+		shape: "hexagon"
+		size: 1.0d
+		tasks: [{
+			id: "149AFA04182C9FAB"
+			title: "Welcome to the Guild"
+			type: "checkmark"
+		}]
+		x: -10.0d
+		y: 3.5d
+	}]
+	title: " &#25D0AAF&#72DF85o&#C0EF6Ar&#F6F96De&#F6F6F6s&#BABBACtry"
+}

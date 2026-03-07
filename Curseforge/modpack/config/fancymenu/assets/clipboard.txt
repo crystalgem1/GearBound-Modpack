@@ -1,0 +1,132 @@
+# GearBound Is OUT!
+Its finally here CABIN V1 on
+GearBound Season 0.4
+i welcome you to this new season,
+and wish you lots of fun,
+see you on the server ^\_^
+
+# Changelog V1
+### General changes:
+- **overhauled menu**
+- **added mods**
+- **locked new mods**
+
+## Kubejs:
+- **removed creative_tabs.js**
+    (caused crashes and 
+    isnt that usefull)
+
+- **removed startingitems.js**
+    (fused with other script 
+    since they used the same event,
+    also added random hellos)
+
+- **added removeItems.js**
+    (to lock content that 
+    isnt done for now)
+
+
+## Added Mods:
+- **tacz**
+    (basic mod is disabled, 
+    only create guns are available)
+
+- **Create: Enchantment Industry**
+    (to add a new progression style)
+
+- **Create: Misc & Things**
+    (what can i say i love mini blazes)
+
+- **Create: Crafts & Additions**
+    (as a nice edition to 
+    the energy progression)
+
+- **Create: Bits 'n' Bobs**
+    (for new creative builds)
+
+- **Create: Confectionery**
+    (for the Caffee lovers)
+
+- **Create: Copycats+**
+    (this one is for the builders)
+
+- **Create: Vibrant Vaults**
+    (this one is just for you <3)
+
+- **Create: Stock Bridge**
+    (to make the transition from
+    create -> ae2 optional 
+    and smoother)
+
+- **[Let's Do] Series**
+    (to make the world 
+    have moreeee stuff)
+
+- **Enderman Overhaul**
+- **Creeper Overhaul**
+    (for more variety
+    and future progression)
+
+    
+# Removed Mods:
+- **occultism**
+    (was deamed to be unfitting with 
+    the modpacks style)
+
+- **AE2 Network Analyser**
+    (uneccessary)
+
+- **Aquaculture 2**
+    (in an attempt to keep the 
+    modcount lower)
+
+- **EMI Ores**
+    (not needed)
+
+- **Functional Storage**
+    (not needed,
+    soph. storage has the 
+    same functionality)
+
+- **Exchangers**
+- **Fairy Lights**
+- **Modonomicon**
+    (was crashing
+    from the start couldnt fix)
+- **Rechiseled**
+    (sorry buttt
+    added other deco mods)
+
+- **Occultism**
+    (kind of replaces the
+    create automation aspect 
+    and progression which is 
+    kind of the point of this modpack)
+
+- **Radium Reforged**
+    (there is already embeddium)
+
+## Replaced Mods:
+- **Aquaculture 2**
+  
+- **Clumps**
+    (enchantment industry)
+
+- **Controlling**
+    (Raw's visual keyboard)
+
+- **Culinary Construct**
+    (some assembly required)
+
+- **CullLessLeaves Reforged**
+    (replaced by chlorite, 
+    who has this build in)
+
+- **GraveStone Mod**
+    (corpse is better)
+
+- **Inventory Sorter**
+    (quark)
+
+- **Project Red - Core**
+    (create extra Gauges)
