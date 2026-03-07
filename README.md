@@ -16,7 +16,8 @@ join the notion app to keep track on who is editing and working on what
 join us on [Notion](https://www.notion.so/GearBound-31c5c0b1cc368059a176e14efb34ef3b?source=copy_link)
 ** **
 ### What is notion?
-think of it like a advaned note taking app,
+think of it like a advaned note taking app,<br>
+that can be used to organize projects
 ### why not have a todo list on Github?
 i fought about this but it would require updating some file within github,<br>
 which would require a lot of unecessary pulls and pushes
