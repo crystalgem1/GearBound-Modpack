@@ -78,17 +78,28 @@
 			moonshale = true
 			nebulite = true
 
-		[types.stone_type.bloomingnature]
-			travertin = true
-			laterit = true
-			slate = true
+		[types.stone_type.create_dd]
+			gabbro = true
+			aethersite = true
+			potassic = true
+			weathered_limestone = true
 
-		[types.stone_type.meadow]
-			limestone = true
+		[types.stone_type.abyssal_decor]
+			blood_coral = true
+			jade = true
+			starstone = true
+			effervescence = true
 
 		[types.stone_type.tconstruct]
 			seared_stone = true
 			scorched_stone = true
+
+		[types.stone_type.atmospheric]
+			ivory_travertine = true
+			peach_travertine = true
+			persimmon_travertine = true
+			saffron_travertine = true
+			dolerite = true
 
 		[types.stone_type.forbidden_arcanus]
 			darkstone = true
@@ -98,12 +109,6 @@
 			duskrock = true
 			darkslate = true
 			grimestone = true
-
-		[types.stone_type.create_dd]
-			gabbro = true
-			aethersite = true
-			potassic = true
-			weathered_limestone = true
 
 	[types.wood_type]
 
@@ -145,49 +150,8 @@
 		[types.wood_type.cataclysm]
 			chorus = true
 
-		[types.wood_type.vinery]
-			dark_cherry = true
-
-		[types.wood_type.beachparty]
-			palm = true
-
-		[types.wood_type.bloomingnature]
-			larch = true
-			baobab = true
-			swamp_oak = true
-			aspen = true
-			fan_palm = true
-			fir = true
-			swamp_cypress = true
-			ebony = true
-			chestnut = true
-
-		[types.wood_type.meadow]
-			pine = true
-
-		[types.wood_type.tconstruct]
-			greenheart = true
-			skyroot = true
-			bloodshroom = true
-			enderbark = true
-
-		[types.wood_type.forbidden_arcanus]
-			fungyss = true
-			aurum = true
-			edelwood = true
-
-		[types.wood_type.malum]
-			runewood = true
-			soulwood = true
-
 		[types.wood_type.minecraft]
 			pale_oak = true
-
-		[types.wood_type.betterarcheology]
-			rotten = true
-
-		[types.wood_type.darkerdepths]
-			petrified = true
 
 		[types.wood_type.nethers_exoticism]
 			jabuticaba = true
@@ -206,6 +170,47 @@
 			spirit = true
 			rubber = true
 
+		[types.wood_type.abyssal_decor]
+			white_wood = true
+			blackwood = true
+			cinnamon = true
+
+		[types.wood_type.tconstruct]
+			greenheart = true
+			skyroot = true
+			bloodshroom = true
+			enderbark = true
+
+		[types.wood_type.betterarcheology]
+			rotten = true
+
+		[types.wood_type.atmospheric]
+			rosewood = true
+			morado = true
+			yucca = true
+			aspen = true
+			laurel = true
+			kousa = true
+			grimwood = true
+
+		[types.wood_type.dungeonsdelight]
+			wormwood = true
+
+		[types.wood_type.mynethersdelight]
+			powdery = true
+
+		[types.wood_type.forbidden_arcanus]
+			fungyss = true
+			aurum = true
+			edelwood = true
+
+		[types.wood_type.malum]
+			runewood = true
+			soulwood = true
+
+		[types.wood_type.darkerdepths]
+			petrified = true
+
 	[types.cake]
 
 		[types.cake.natures_spirit]
@@ -214,6 +219,12 @@
 		[types.cake.createaddition]
 			chocolate_cake = true
 			honey_cake = true
+
+		[types.cake.mynethersdelight]
+			magma_cake = true
+
+		[types.cake.dungeonsdelight]
+			monster_cake = true
 
 	[types.leaves_type]
 
@@ -258,38 +269,6 @@
 			mahogany = true
 			saxaul = true
 
-		[types.leaves_type.vinery]
-			grapevine = true
-			dark_cherry = true
-			apple = true
-
-		[types.leaves_type.beachparty]
-			palm = true
-
-		[types.leaves_type.bloomingnature]
-			larch = true
-			baobab = true
-			orange = true
-			swamp_oak = true
-			aspen = true
-			fan_palm = true
-			fir = true
-			swamp_cypress = true
-			ebony = true
-			chestnut = true
-
-		[types.leaves_type.meadow]
-			pine = true
-
-		[types.leaves_type.tconstruct]
-			earth_slime = true
-			sky_slime = true
-			ender_slime = true
-
-		[types.leaves_type.forbidden_arcanus]
-			aurum = true
-			nuggety_aurum = true
-
 		[types.leaves_type.quark]
 			ancient = true
 			blue_blossom = true
@@ -297,15 +276,6 @@
 			orange_blossom = true
 			yellow_blossom = true
 			red_blossom = true
-
-		[types.leaves_type.malum]
-			runewood = true
-			azure_runewood = true
-			soulwood = true
-			budding_soulwood = true
-
-		[types.leaves_type.occultism]
-			otherworld = true
 
 		[types.leaves_type.minecraft]
 			pale_oak = true
@@ -315,6 +285,41 @@
 
 		[types.leaves_type.create_dd]
 			rubber = true
+
+		[types.leaves_type.abyssal_decor]
+			cinnamon = true
+			flowering_cinnamon = true
+
+		[types.leaves_type.tconstruct]
+			earth_slime = true
+			sky_slime = true
+			ender_slime = true
+
+		[types.leaves_type.atmospheric]
+			rosewood = true
+			morado = true
+			flowering_morado = true
+			yucca = true
+			aspen = true
+			green_aspen = true
+			laurel = true
+			dry_laurel = true
+			kousa = true
+			currant = true
+			grimwood = true
+
+		[types.leaves_type.occultism]
+			otherworld = true
+
+		[types.leaves_type.forbidden_arcanus]
+			aurum = true
+			nuggety_aurum = true
+
+		[types.leaves_type.malum]
+			runewood = true
+			azure_runewood = true
+			soulwood = true
+			budding_soulwood = true
 
 #Disables specific entries
 [entries]
@@ -327,19 +332,19 @@
 			small_bricks = true
 			cut = true
 			polished_cut = true
-			small_brick_slab = true
+			small_brick_slab = false
 			layered = true
 			cut_brick_wall = true
 			pillar = true
-			cut_stairs = true
-			cut_brick_stairs = true
-			cut_brick_slab = true
-			polished_cut_slab = true
-			small_brick_stairs = true
+			cut_stairs = false
+			cut_brick_stairs = false
+			cut_brick_slab = false
+			polished_cut_slab = false
+			small_brick_stairs = false
 			cut_bricks = true
-			polished_cut_stairs = true
+			polished_cut_stairs = false
 			polished_cut_wall = true
-			cut_slab = true
+			cut_slab = false
 
 		[entries.stone_type.handcrafted]
 			corner_trim = true
@@ -348,27 +353,22 @@
 		[entries.stone_type.bbb]
 			column = true
 			urn = true
-			brick_layer = true
+			brick_layer = false
 			fence = true
-			layer = true
-			tile_stairs = true
+			layer = false
+			tile_stairs = false
 			moulding = true
-			tile_slab = true
-			smooth_layer = true
+			tile_slab = false
+			smooth_layer = false
 			tiles = true
 
 		[entries.stone_type.quark]
-			polished_vertical_slab = true
+			polished_vertical_slab = false
 			pillar = true
-			vertical_slab = true
-
-		[entries.stone_type.candlelight]
-			counter = true
-			kitchen_sink = true
-			stove = true
+			vertical_slab = false
 
 		[entries.stone_type.decorative_blocks]
-			pillar = true
+			pillar = false
 
 	[entries.mud_type]
 
@@ -378,9 +378,9 @@
 			brick_lattice = true
 
 		[entries.mud_type.betterarcheology]
-			cracked_brick_stairs = true
+			cracked_brick_stairs = false
 			cracked_bricks = true
-			cracked_brick_slab = true
+			cracked_brick_slab = false
 
 	[entries.wood_type]
 
@@ -402,10 +402,10 @@
 			chair = true
 
 		[entries.wood_type.architects_palette]
-			board_stairs = true
+			board_stairs = false
 			railing = true
 			boards = true
-			board_slab = true
+			board_slab = false
 			board_wall = true
 
 		[entries.wood_type.refurbished_furniture]
@@ -448,7 +448,7 @@
 			coffee_table = true
 			beam = true
 			shelf = true
-			open_riser_stairs = true
+			open_riser_stairs = false
 
 		[entries.wood_type.create]
 			window_pane = true
@@ -463,7 +463,7 @@
 			trapped_chest = true
 			bookshelf = true
 			stripped_post = true
-			vertical_slab = true
+			vertical_slab = false
 
 		[entries.wood_type.farmersdelight]
 			cabinet = true
