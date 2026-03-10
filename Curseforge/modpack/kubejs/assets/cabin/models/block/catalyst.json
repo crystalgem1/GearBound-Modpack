@@ -1,7 +1,0 @@
-{
-  "parent": "cabin:block/substrate",
-  "textures": {
-    "particle": "cabin:block/catalyst_glass",
-    "0": "cabin:block/catalyst_glass"
-  }
-}

@@ -3,7 +3,7 @@
     "entries": [],
     "isWhitelist": false
   },
-  "trackCount": 32,
+  "trackCount": 14,
   "resetOnDeath": true,
   "limitProgressionToSurvival": false,
   "minFoodsToActivate": 0,
@@ -45,7 +45,7 @@
   "complexityStandardNutrition": 5,
   "complexityStandardSaturation": 0.6,
   "complexityBenefitEffectModifier": 0.2,
-  "complexityNeutralEffectModifier": 0,
+  "complexityNeutralEffectModifier": 0.2,
   "complexityHarmEffectModifier": -0.2,
   "foodDiversity": [
     {
