@@ -3,16 +3,23 @@ Hey and welcome to the Season 0.4 of GearBound<br>
 this is the development repo of the modpack used to further develop the modpack
 
 ## IMPORTANT
-L_Ender 's Cataclysm exceeds the maximum file size and cannot be uploaded to github,<br>
-but is still contained in the import file
+L_Ender 's Cataclysm exceeds the maximum file size<br>
+and cannot be uploaded to github,<br>
+but is still contained in the import file<br>
 
 ## Wonna help?
-Feel free to clone this github and when merging we can go<br>
-over the changes together, there is also a TODO.md detailing the current ideas and progress<br>
-(or at least there will be soon)<br>
-when working on the todo list please<br>
-join the notion app to keep track on who is editing and working on what
+A helping hand is always apprichiated no matter in what<br>
+it doesnt even need to be coding,<br> 
+you can help in making quests, models, textures<br>
+configuring files (can be cooler then you think),<br>
+just making things look pretty<br>
+anything really :D<br>
 
+and if you wonna do that please<br>
+download the modpack import here on github and join us on notion!<br>
+where we can keep track of who is doing what<br> 
+and what we wonna change how urgend some things are etc<br>
+we may switch to figma in the future bec it has pretty colors but for now you can<br>
 join us on [Notion](https://www.notion.so/GearBound-31c5c0b1cc368059a176e14efb34ef3b?source=copy_link)
 ** **
 ### What is notion?
