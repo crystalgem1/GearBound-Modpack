@@ -20,7 +20,10 @@ download the modpack import here on github and join us on notion!<br>
 where we can keep track of who is doing what<br> 
 and what we wonna change how urgend some things are etc<br>
 we may switch to figma in the future bec it has pretty colors but for now you can<br>
+
 join us on [Notion](https://www.notion.so/GearBound-31c5c0b1cc368059a176e14efb34ef3b?source=copy_link)
+download the modpack under [test](Curseforge/import/GB CABIN-testVersion.zip) 
+`Curseforge/import/GB CABIN-testVersion.zip`
 ** **
 ### What is notion?
 think of it like a advaned note taking app,<br>
