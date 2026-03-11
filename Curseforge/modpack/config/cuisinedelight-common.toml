@@ -1,6 +1,6 @@
 #base size per serve
 #Range: 1 ~ 100
-baseServe = 4
+baseServe = 2
 #base nutrition factor
 #Range: 0.0 ~ 100.0
 baseNutrition = 0.1
@@ -15,11 +15,11 @@ perfectionBonus = 0.5
 maxIngredient = 9
 #nourishment duration per food type
 #Range: 1 ~ 10000
-nourishmentDuration = 100
+nourishmentDuration = 10
 #Enable SoL compat so that eating a dish is equivalent to eating all components
-enableSoLCompat = true
+enableSoLCompat = false
 #Enable Diet compat so that eating a dish is equivalent to eating all components
-enableDietCompat = true
+enableDietCompat = false
 #Speed factor for slow-cooking
 #Range: 0.01 ~ 1.0
 slowSpeed = 0.5
